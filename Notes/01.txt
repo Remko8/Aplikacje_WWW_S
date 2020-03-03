@@ -1,0 +1,39 @@
+
+Data model
+modele danych na ktorych bed¹ operowaæ aplikacje
+
+Encje - (klasy)
+
+ORN - Object
+
+
+Class Library (.NET Core)
+
+Dependnencies
+Reference
+
+
+snipety:
+
+prop tab
+ctab 
+
+
+
+
+
+Commit > Message > Comiit&Push
+
+LAB1
+
+Wejsciówka
+
+tworzenie klas
+properties
+dziedziczenie
+intyty user Intuti role
+Intytu\y role
+Napisc prprertiwes
+do czego sluzy ...
+powtórka z rozrywki
+
