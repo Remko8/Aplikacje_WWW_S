@@ -1,0 +1,238 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.Services\\SchoolRegister.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.BLL\\SchoolRegister.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.BLL\\SchoolRegister.BLL.csproj",
+        "projectName": "SchoolRegister.BLL",
+        "projectPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.BLL\\SchoolRegister.BLL.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[2.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
+        "projectName": "SchoolRegister.DAL",
+        "projectPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.BLL\\SchoolRegister.BLL.csproj": {
+                "projectPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.BLL\\SchoolRegister.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[2.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.Services\\SchoolRegister.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.Services\\SchoolRegister.Services.csproj",
+        "projectName": "SchoolRegister.Services",
+        "projectPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.Services\\SchoolRegister.Services.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.BLL\\SchoolRegister.BLL.csproj": {
+                "projectPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.BLL\\SchoolRegister.BLL.csproj"
+              },
+              "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
+                "projectPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj"
+              },
+              "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
+        "projectName": "SchoolRegister.ViewModels",
+        "projectPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\K_Janik\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

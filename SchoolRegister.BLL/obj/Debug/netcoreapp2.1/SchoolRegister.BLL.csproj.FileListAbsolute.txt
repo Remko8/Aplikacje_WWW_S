@@ -1,0 +1,9 @@
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.BLL\bin\Debug\netcoreapp2.1\SchoolRegister.BLL.deps.json
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.BLL\bin\Debug\netcoreapp2.1\SchoolRegister.BLL.dll
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.BLL\bin\Debug\netcoreapp2.1\SchoolRegister.BLL.pdb
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.BLL\obj\Debug\netcoreapp2.1\SchoolRegister.BLL.csprojAssemblyReference.cache
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.BLL\obj\Debug\netcoreapp2.1\SchoolRegister.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.BLL\obj\Debug\netcoreapp2.1\SchoolRegister.BLL.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.BLL\obj\Debug\netcoreapp2.1\SchoolRegister.BLL.AssemblyInfo.cs
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.BLL\obj\Debug\netcoreapp2.1\SchoolRegister.BLL.dll
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.BLL\obj\Debug\netcoreapp2.1\SchoolRegister.BLL.pdb

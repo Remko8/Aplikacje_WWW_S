@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\netcoreapp2.1\SchoolRegister.DAL.deps.json
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\netcoreapp2.1\SchoolRegister.DAL.dll
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\netcoreapp2.1\SchoolRegister.DAL.pdb
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\netcoreapp2.1\SchoolRegister.BLL.dll
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\bin\Debug\netcoreapp2.1\SchoolRegister.BLL.pdb
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.csprojAssemblyReference.cache
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.AssemblyInfo.cs
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.csproj.CopyComplete
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.dll
+C:\Users\Student\Documents\K_Janik\Aplikacje_WWW_S\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.pdb
