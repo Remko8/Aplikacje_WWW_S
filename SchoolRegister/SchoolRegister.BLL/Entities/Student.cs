@@ -13,7 +13,7 @@ namespace SchoolRegister.BLL.Entities
 
         [NotMapped]
         public double AverageGrade => Math.Round(Grades.Average(g => (int)g.GradeValue), 1);
-
+         
         [NotMapped]
         public IDictionary<string, double> AverageGradePerSubject => Grades
             .GroupBy(g => g.Subject.Name)

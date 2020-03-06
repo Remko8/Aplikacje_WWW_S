@@ -8,5 +8,5 @@ namespace SchoolRegister.BLL.Entities
     {
         public IList<Subject> Subjects { get; set; }
         public string Title { get; set; }
-    }
+    } 
 }

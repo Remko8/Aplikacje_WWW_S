@@ -12,4 +12,4 @@ namespace SchoolRegister.BLL.Entities
         public string Name { get; set; }
         public Teacher Teacher { get; set; }
     }
-}
+} 
