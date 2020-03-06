@@ -12,4 +12,4 @@ namespace SchoolRegister.BLL.Entities
         public DateTime RegistrationDate { get; set; }
         
     }
-} 
+}

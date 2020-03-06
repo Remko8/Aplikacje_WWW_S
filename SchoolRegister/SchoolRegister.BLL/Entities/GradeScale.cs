@@ -9,6 +9,6 @@ namespace SchoolRegister.BLL.Entities
         NDST = 2,
         DST = 3,
         DB = 4,
-        BDB = 5 
+        BDB = 5
     }
 }
