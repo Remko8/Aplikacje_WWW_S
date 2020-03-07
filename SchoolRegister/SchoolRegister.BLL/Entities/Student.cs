@@ -6,26 +6,26 @@ using System.Text;
 
 namespace SchoolRegister.BLL.Entities
 {
-    //public class Student: User
-    //{
-    //    public Group Group { get; set; }
+    public class Student: User
+    {
+        public Group Group { get; set; }
 
-    //    public IList<Grade> Grades { get; set; }
+        public IList<Grade> Grades { get; set; }
 
-    //    [NotMapped]
-    //    public double AverageGrade => Math.Round(Grades.Average(global => (int)global.GradeValue), 1);
+        [NotMapped]
+        public double AverageGrade => Math.Round(Grades.Average(global => (int)global.GradeValue), 1);
 
-    //    [NotMapped]
+        [NotMapped]
 
-    //    public IDictionary<string, double> AverageGradePerSubject => Grades
-    //        .GroupBy(global => global.Subject.Name)
-    //        .Select(global => new
-    //        {
-    //            SubjectName = global.Key,
-    //            AvgGrade = Math.Round(global.Average(AverageGrade => (int)AverageGrade.GradeValue), 1)
+        public IDictionary<string, double> AverageGradePerSubject => Grades
+            .GroupBy(global => global.Subject.Name)
+            .Select(global => new
+            {
+                SubjectName = global.Key,
+                AvgGrade = Math.Round(global.Average(AverageGrade => (int)AverageGrade.GradeValue), 1)
 
-    //        })
-    //        .toDictionary(avg => avg.SubjectName, avg => avg.AvgGrade);
-    //}
+            })
+            .ToDictionary(avg => avg.SubjectName, avg => avg.AvgGrade);
+    }
     
 }

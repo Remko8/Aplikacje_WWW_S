@@ -4,11 +4,8 @@ using System.Text;
 
 namespace SchoolRegister.BLL.Entities
 {
-    public enum GradeScale
+    public class Parent : User
     {
-        NDST =1,
-        DST =3,
-        BD =4,
-        BDB =5
+        public IList<Student> Students { get; set; }
     }
 }
