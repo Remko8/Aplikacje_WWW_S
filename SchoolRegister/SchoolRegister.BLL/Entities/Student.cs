@@ -5,7 +5,7 @@ using System.Linq;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SchoolRegister.BLL.Entities
-{
+{ 
     public class Student : User
      {
         public Group Group { get; set; }
