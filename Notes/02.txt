@@ -1,0 +1,92 @@
+
+Wejœciówka nr1 = 1ptk
+
+public class Student : User
+    {
+        public double AverageGrade => Math.Round(Grades
+            .Average(g => (int)g.GradeValue), 1);
+        public IDictionary<string, double> AverageGradePerSubject => Grades
+            .GroupBy(g => g.Subject.Name)
+            .Select(g => new {SubjectName = g.Key,
+                                AvgGrade = Math.Round(
+                                                g.Average(avg => (int)avg.GradeValue),1
+                                                )
+                            })
+            .ToDictionary(avg => avg.SubjectName, avg => avg.AvgGrade);
+        public IList<Grade> Grades { get; set; }
+        
+        public Group Group { get; set; }
+
+    }
+
+
+
+ORM
+Na podst Tabel
+
+CodeFirst
+Kod, Naprzêdzie ORM, Tabela
+
+DBFirst
+Tabele, Kod(Klasy)
+
+Klasy -> ORM -> Relacje(Tabele)
+
+Tabele -> ORM -> Klasy
+
+
+EF - EntityFramework
+Zamienia tab na kolekcje
+DBContext - reprez DB w postaci obiektowej (zawiera kolekcje , kolekcja = tabela
+
+
+DbContext.Students
+DbContext.Group. where , Select . GroupBy
+
+
+Linq
+LambdaExpresions
+typu DbSet<T>
+
+
+
+public DbSet<Post> Posts { get; set; } // example table property
+
+NA WYK£ADZIE BÊDZIE
+TPH - Table Per 
+JEdna tab przechowuje wiele hierarchi dziedziczenia
+
+Inhelitense in EF
+Dziedziczenie w EF
+
+.HasDiscriminator<int>("UserType")
+Pole rozró¿nniaj¹ce typy
+
+
+Microsoft.AspNetCore.Identity.EntityFrameworkCore – wersja 2.1....
+
+
+Na wejsc:
+Migracje (Punkty migracyjne)
+
+
+
+
+Do Wejsc
+
+ORM
+EF
+Fluent Api
+Adnotacje (Forent Key)
+DbContext
+Medtody Linq
+TPH - 
+
+
+
+
+
+
+
+
+

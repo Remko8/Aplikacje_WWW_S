@@ -31,6 +31,7 @@ Wejsciówka
 tworzenie klas
 properties
 dziedziczenie
+ASP.NET Identity Core
 intyty user Intuti role
 Intytu\y role
 Napisc prprertiwes
