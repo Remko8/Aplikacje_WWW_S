@@ -5,7 +5,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="JetBrains.Annotations" Version="2019.1.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\SchoolRegister.BLL\SchoolRegister.BLL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="EF\" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
 
 </Project>
