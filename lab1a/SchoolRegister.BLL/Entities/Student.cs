@@ -10,5 +10,7 @@ namespace SchoolRegister.BLL.Entities
         public IDictionary<string, double> AverageGradePerSubject { get; }
         public IList<Grade> Grades { get; set; }
         public Group Group { get; set; }
+
+
     }
 }
