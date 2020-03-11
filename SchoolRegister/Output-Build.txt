@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: SchoolRegister.BLL, Configuration: Debug Any CPU ------
+1>SchoolRegister.BLL -> C:\Users\Student\Documents\Miłosz Łatanik\Aplikacje_WWW_S\SchoolRegister\SchoolRegister.BLL\bin\Debug\netcoreapp2.1\SchoolRegister.BLL.dll
+2>------ Build started: Project: SchoolRegister.DAL, Configuration: Debug Any CPU ------
+2>SchoolRegister.DAL -> C:\Users\Student\Documents\Miłosz Łatanik\Aplikacje_WWW_S\SchoolRegister\SchoolRegister.DAL\bin\Debug\netcoreapp2.1\SchoolRegister.DAL.dll
+3>------ Build started: Project: SchoolRegister.Services, Configuration: Debug Any CPU ------
+3>SchoolRegister.Services -> C:\Users\Student\Documents\Miłosz Łatanik\Aplikacje_WWW_S\SchoolRegister\SchoolRegister.Services\bin\Debug\netcoreapp2.1\SchoolRegister.Services.dll
+4>------ Build started: Project: SchoolRegister.Web, Configuration: Debug Any CPU ------
+4>SchoolRegister.Web -> C:\Users\Student\Documents\Miłosz Łatanik\Aplikacje_WWW_S\SchoolRegister\SchoolRegister.Web\bin\Debug\netcoreapp2.1\SchoolRegister.Web.dll
+4>SchoolRegister.Web -> C:\Users\Student\Documents\Miłosz Łatanik\Aplikacje_WWW_S\SchoolRegister\SchoolRegister.Web\bin\Debug\netcoreapp2.1\SchoolRegister.Web.Views.dll
+========== Build: 4 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
