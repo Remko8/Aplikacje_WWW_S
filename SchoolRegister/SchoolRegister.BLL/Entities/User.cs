@@ -3,7 +3,7 @@ using System;
 
 namespace SchoolRegister.BLL.Entities
 {
-    public abstract class User : IdentityUser<int>
+    public abstract class User : IdentityUser<int>, Student
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
