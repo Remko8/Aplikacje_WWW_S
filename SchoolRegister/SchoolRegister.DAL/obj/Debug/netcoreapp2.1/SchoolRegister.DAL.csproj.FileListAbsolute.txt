@@ -1,0 +1,9 @@
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.DAL\bin\Debug\netcoreapp2.1\SchoolRegister.DAL.deps.json
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.DAL\bin\Debug\netcoreapp2.1\SchoolRegister.DAL.dll
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.DAL\bin\Debug\netcoreapp2.1\SchoolRegister.DAL.pdb
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.csprojAssemblyReference.cache
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.AssemblyInfo.cs
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.dll
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.DAL\obj\Debug\netcoreapp2.1\SchoolRegister.DAL.pdb

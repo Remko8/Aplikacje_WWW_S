@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.ViewModels\bin\Debug\netcoreapp2.1\SchoolRegister.ViewModels.deps.json
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.ViewModels\bin\Debug\netcoreapp2.1\SchoolRegister.ViewModels.dll
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.ViewModels\bin\Debug\netcoreapp2.1\SchoolRegister.ViewModels.pdb
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\netcoreapp2.1\SchoolRegister.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\netcoreapp2.1\SchoolRegister.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\netcoreapp2.1\SchoolRegister.ViewModels.AssemblyInfo.cs
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\netcoreapp2.1\SchoolRegister.ViewModels.dll
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.ViewModels\obj\Debug\netcoreapp2.1\SchoolRegister.ViewModels.pdb

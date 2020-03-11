@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.Services\bin\Debug\netcoreapp2.1\SchoolRegister.Services.deps.json
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.Services\bin\Debug\netcoreapp2.1\SchoolRegister.Services.dll
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.Services\bin\Debug\netcoreapp2.1\SchoolRegister.Services.pdb
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.Services\obj\Debug\netcoreapp2.1\SchoolRegister.Services.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.Services\obj\Debug\netcoreapp2.1\SchoolRegister.Services.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.Services\obj\Debug\netcoreapp2.1\SchoolRegister.Services.AssemblyInfo.cs
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.Services\obj\Debug\netcoreapp2.1\SchoolRegister.Services.dll
+C:\Users\Student\Documents\MO\net core\SchoolRegister\SchoolRegister.Services\obj\Debug\netcoreapp2.1\SchoolRegister.Services.pdb
