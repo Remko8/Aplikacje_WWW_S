@@ -1,18 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\SchoolRegister.DAL\SchoolRegister.DAL.csproj" />
+    <ProjectReference Include="..\SchoolRegister.ViewModel\SchoolRegister.ViewModel.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SchoolRegister.BLL\SchoolRegister.BLL.csproj" />
-    <ProjectReference Include="..\SchoolRegister.DAL\SchoolRegister.DAL.csproj" />
-    <ProjectReference Include="..\SchoolRegister.ViewModels\SchoolRegister.ViewModels.csproj" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>
