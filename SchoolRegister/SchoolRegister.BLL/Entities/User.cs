@@ -1,12 +1,13 @@
-﻿using Microsoft.AspNetCore.Identity;
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace SchoolRegister.BLL.Entities
 {
-    public abstract class User : IdentityUser<int>
+    class User
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public DateTime RegistrationDate { get; set; }
+        string FirstName { get; set; }
+        string LastName { get; set; }
+        DateTime RegistrationDate { get; set; }
     }
 }

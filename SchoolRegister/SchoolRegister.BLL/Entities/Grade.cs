@@ -1,13 +1,13 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+using System.Collections.Generic;
+using System.Text;
 
 namespace SchoolRegister.BLL.Entities
 {
-    public class Grade
+    class Grade
     {
-        public DateTime DateOfIssue { get; set; }
-        public GradeScale GradeValue { get; set; }
-        public Subject Subject { get; set; }
+        DateTime DateOfIssue { get; set; }
+        GradeScale GradeValue { get; set; }
+        Subject Subject { get; set; }
     }
 }
