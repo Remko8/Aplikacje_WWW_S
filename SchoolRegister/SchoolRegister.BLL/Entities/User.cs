@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Identity;
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Microsoft.AspNetCore.Identity;
 
 namespace SchoolRegister.BLL.Entities
 {
-    public abstract class User : IdentityUser<int>
+    public abstract class User: IdentityUser<int>
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
