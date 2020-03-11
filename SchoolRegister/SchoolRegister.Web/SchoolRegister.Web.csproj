@@ -12,8 +12,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\SchoolRegister.Services\SchoolRegister.Services.csproj" />
-    <ProjectReference Include="..\SchoolRegister.ViewModels\SchoolRegister.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>
